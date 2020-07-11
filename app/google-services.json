@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266537421553",
+    "firebase_url": "https://moovurapp.firebaseio.com",
+    "project_id": "moovurapp",
+    "storage_bucket": "moovurapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266537421553:android:f9ac90e923a60e47147750",
+        "android_client_info": {
+          "package_name": "com.perfectvoyage.moovurapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266537421553-fudg1ceub88j2078q52nsjvnm2krhvud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.perfectvoyage.moovurapp",
+            "certificate_hash": "07ef578c8faef5314dffcd0edbd245b7c0d1f704"
+          }
+        },
+        {
+          "client_id": "266537421553-1qs9vioo9ch440pt9ek2k9svk8fuut0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJyPDtPtitFCO4_pdS6HY4cljI-9A7Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266537421553-1qs9vioo9ch440pt9ek2k9svk8fuut0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
