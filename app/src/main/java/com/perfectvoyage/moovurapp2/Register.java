@@ -45,24 +45,11 @@ public class Register extends AppCompatActivity {
             finish();
         }
 
-        mRegisterBtn.setOnClickListener'new View.OnClickListener() {;/////////
-
-
-
-
-
-
-
-
-
-
-
-
-
+        mRegisterBtn.setOnClickListener'new View.OnClickListener()
 
             @Override
-            public void onClick(View v) {
-                String  email = mEmail.getText().toString().trim();
+            public void onClick;(View ) {
+                String email = mEmail.getText().toString().trim();
                 String password = mPassword.getText().toString().trim();
 
                 if(TextUtils.isEmpty(email)){
